@@ -1,16 +1,17 @@
 <h1 align="center">Hi, I'm Mustafa 👋</h1>
-<p align="center"><b>DariZx</b> — Indie mobile game developer</p>
+<p align="center"><b>DariZx</b> — Indie game developer</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
 </p>
 
 ---
 
-I build small mobile games solo with **Unity & C#** — from idea to Google Play.
+I build small games solo with **Unity & C#** — from idea to Google Play.
 
 ---
 
