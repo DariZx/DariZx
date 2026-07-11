@@ -1,49 +1,32 @@
-<h1 align="center">Hi, I'm Mustafa 👋</h1>
-<p align="center"><b>DariZx</b> — Indie game developer</p>
+# Hi there, I'm Mustafa! 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
-</p>
+A passionate **Mobile Game Developer** dedicated to crafting engaging, mechanics-driven casual puzzle games. I love bringing ideas to life using **Unity** and **C#**, focusing on clean code, smooth gameplay, and smart logic.
 
 ---
 
-I build small games solo with **Unity & C#** — from idea to Google Play.
+### 🚀 What I Do
+* 🕹️ **Game Development:** Specializing in casual puzzle, word, and block-popping mobile games.
+* 💻 **Code Architecture:** Writing robust, scalable game logic with C# and .NET.
+* 🛠️ **Full Pipeline:** Handling everything from core mechanics and localizations (multi-language systems) to publishing on the Google Play Store.
 
 ---
 
-### 🎮 Games I've Shipped
+### 🛠️ Tech Stack & Tools
 
-<table>
-<tr>
-<td width="90"><img src="https://play-lh.googleusercontent.com/QiRf71DQl1oN1hICip3aOayg5RpcMadRS_J9zQwzMq8Nc7DsT8oRKv_FWVAmY-umnACYc7xdtj2rha89SloTGQ=w120-h120" width="70"/></td>
-<td>
-
-**Lexy Letter: Word Blast**
-Connect letters, find words — race the clock in 60-second word battles. Bomb & star letters, missions, and 17 languages supported.
-[▶ Play Store](https://play.google.com/store/apps/details?id=com.DariZxStudio.LexyLetter)
-
-</td>
-</tr>
-<tr>
-<td width="90"><img src="https://play-lh.googleusercontent.com/RME4oaQrWNq-PJxaZ0X8bbaWdJPLDtNbxFIcydXxxc_3MW6p3JGnhfBibcM2xZh-RCd7OKSNBfDeqMppaD1U=w120-h120" width="70"/></td>
-<td>
-
-**Roadbound Alien**
-An alien stranded on Earth needs your help getting home. Dodge traffic, master tricky levels, reach the Final Challenge.
-[▶ Play Store](https://play.google.com/store/apps/details?id=com.darizx.gamealien)
-
-</td>
-</tr>
-</table>
-
-🚧 **A third game is currently in testing** — coming soon once it's polished.
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Engine & Language** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white) |
+| **Publishing & Ads** | ![Google Play](https://img.shields.io/badge/Google_Play_Console-410099?style=flat-square&logo=google-play&logoColor=white) ![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=flat-square&logo=google-admob&logoColor=white) |
+| **Graphics & Video** | ![Leonardo.ai](https://img.shields.io/badge/Leonardo.AI-000000?style=flat-square) ![Clipchamp](https://img.shields.io/badge/Clipchamp-5B2C6F?style=flat-square) |
 
 ---
 
-### 📫 Contact
+### 📊 GitHub Stats
 
-📧 darizxstudio@gmail.com
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radial&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radial&hide_border=true)
 
-</p>
+---
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
