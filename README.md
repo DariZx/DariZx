@@ -1,56 +1,49 @@
-<h1 align="center">Hi there 👋 I'm [Mustafa]</h1>
-
-<p align="center">
-  I build games with Unity & C# 🎮
-</p>
+<h1 align="center">Hi, I'm Mustafa 👋</h1>
+<p align="center"><b>DariZx</b> — Indie mobile game developer</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎯 Currently working on game development with **Unity**
-- 🌱 Learning: [e.g. Multiplayer, Shaders, Design Patterns]
-- 💬 Ask me about C#, Unity, or game mechanics
-- 🎮 Check out my published games: [your itch.io link]
+I build small mobile games solo with **Unity & C#** — from idea to Google Play.
 
 ---
 
-### 🕹️ Featured Projects
+### 🎮 Games I've Shipped
 
-**[Project Name 1](repo-link)**
-Short description — what kind of game/tool it is, key mechanics.
+<table>
+<tr>
+<td width="90"><img src="https://play-lh.googleusercontent.com/QiRf71DQl1oN1hICip3aOayg5RpcMadRS_J9zQwzMq8Nc7DsT8oRKv_FWVAmY-umnACYc7xdtj2rha89SloTGQ=w120-h120" width="70"/></td>
+<td>
 
-**[Project Name 2](repo-link)**
-Short description — what kind of game/tool it is, key mechanics.
+**Lexy Letter: Word Blast**
+Connect letters, find words — race the clock in 60-second word battles. Bomb & star letters, missions, and 17 languages supported.
+[▶ Play Store](https://play.google.com/store/apps/details?id=com.DariZxStudio.LexyLetter)
 
-**[Project Name 3](repo-link)**
-Short description — what kind of game/tool it is, key mechanics.
+</td>
+</tr>
+<tr>
+<td width="90"><img src="https://play-lh.googleusercontent.com/RME4oaQrWNq-PJxaZ0X8bbaWdJPLDtNbxFIcydXxxc_3MW6p3JGnhfBibcM2xZh-RCd7OKSNBfDeqMppaD1U=w120-h120" width="70"/></td>
+<td>
+
+**Roadbound Alien**
+An alien stranded on Earth needs your help getting home. Dodge traffic, master tricky levels, reach the Final Challenge.
+[▶ Play Store](https://play.google.com/store/apps/details?id=com.darizx.gamealien)
+
+</td>
+</tr>
+</table>
+
+🚧 **A third game is currently in testing** — coming soon once it's polished.
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DariZx&show_icons=true&theme=default&hide_title=true" />
-</p>
+📧 darizxstudio@gmail.com
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariZx&layout=compact&theme=default" />
-</p>
-
----
-
-### 📫 Get in Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
-  <a href="https://YOUR_USERNAME.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" /></a>
 </p>
