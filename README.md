@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Mustafa 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=soft&color=gradient&customColorList=21,11,31,61&height=180&section=header&text=Hi,%20I'm%20Mustafa%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Hi, I'm Mustafa" />
+</p>
 <p align="center"><b>DariZx</b> — Indie Game Developer</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
