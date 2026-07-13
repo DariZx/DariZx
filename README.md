@@ -40,7 +40,7 @@ An alien stranded on Earth needs your help getting home. Dodge traffic, master t
 | :--- | :--- |
 | **Engine & Language** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=.net&logoColor=white) |
 | **Publishing & Ads** | ![Google Play](https://img.shields.io/badge/Google_Play_Console-410099?style=flat-square&logo=google-play&logoColor=white) ![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=flat-square&logo=google-admob&logoColor=white) |
-| **Graphics & AI** | ![Leonardo.ai](https://img.shields.io/badge/Leonardo.AI-000000?style=flat-square) ![Clipchamp](https://img.shields.io/badge/Clipchamp-5B2C6F?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) |
+| **Graphics & AI** | ![Clipchamp](https://img.shields.io/badge/Clipchamp-5B2C6F?style=flat-square) ![Leonardo.ai](https://img.shields.io/badge/Leonardo.AI-000000?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) |
 
 ---
 
