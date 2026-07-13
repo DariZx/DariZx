@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
 </p>
 <p align="center">I build engaging mobile games solo with Unity & C# — taking ideas all the way from concept to the Google Play Store.</p>
 
